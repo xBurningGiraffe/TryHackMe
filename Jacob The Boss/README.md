@@ -1,6 +1,6 @@
 # Jacob The Boss
 
-## This is my first TryHackMe writeup. :]
+## This is my first https://tryhackme.com writeup. :]
 
 ### IP = 10.10.50.155
 #### /etc/hosts 10.10.50.155    jacobtheboss.box
