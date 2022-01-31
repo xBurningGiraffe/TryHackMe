@@ -68,7 +68,7 @@ https://tryhackme.com
 
 ![overpass13](https://user-images.githubusercontent.com/86382301/151735923-ec5d0151-7390-4666-bde8-9c2fddefcccb.png)
 
-### First, I ran linpeas and put the findings in the /tmp folder on the target system. Before reviewing the results, I checked the see if I could edit the hosts file to point the target at my own machine.
+### First, I ran linpeas and put the findings in the /tmp folder on the target system. Before reviewing the results, I checked to see if I could edit the hosts file to point the target at my own machine.
 
 ![overpass14](https://user-images.githubusercontent.com/86382301/151735973-a8a87b9b-5e9d-4e3b-adea-4170cf83d456.png)
 
